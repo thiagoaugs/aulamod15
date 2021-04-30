@@ -31,3 +31,4 @@ spec:
             value: "27017"
           - name: Mongo__DataBase
             value: "admin"
+            
